@@ -33,3 +33,9 @@
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+To tell a better story about general government debt based on 2019 data, I focused on key countries with high gross debt, significant changes, or relevance, like the USA and Canada, since visualizing all variables would make a spaghetti chart that’s hard to read. I used a saturation gradient where darker shades represent higher debt percentages, keeping it simple and avoiding the busy look of multiple colors. The key part is showing the range from low to high debt as a percentage of GDP.
+
+I added a caption explaining GDP: “General government debt is the gross debt of the general government as a percentage of GDP,” along with how this is calculated. Due to inconsistent data collection, I omitted entries that didn’t align with the rest and chose to display data from 2000 onward for a more recent comparison. Labels for countries, along with the x-axis as % of GDP and the y-axis as the year (not time), make it easier to read and interpret.
+
+

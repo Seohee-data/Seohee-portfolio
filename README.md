@@ -15,9 +15,10 @@ My enthusiasm for data analytics and visualization has found a perfect outlet in
 Here's where all my cool work will go.
 
 # Assignment
-(/dataviz2.md)
+[Visualization](dataviz2)
 
 ![General government debt](General Government Debt.png)
+
 
 
 

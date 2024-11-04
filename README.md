@@ -17,5 +17,9 @@ Here's where all my cool work will go.
 # Assignment
 (/dataviz2.md)
 
+![General government debt](General Government Debt.png)
+
+
+
 
 

@@ -16,6 +16,7 @@ Here's where all my cool work will go.
 
 # Assignment2: [Visualization](dataviz2)
 
+# Assignment3: [visualization demo](Assignment3.md)
 
 
 

@@ -17,13 +17,30 @@ Here are my redesigned 4 different visualizations.
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);              
 </script>
 
-As I went through the visualization, I started making a few adjustments to improve the storytelling. First, I liked the original black background and the clean typography; it fits well with the film industry theme. But to make the data pop, I decided to switch to a white background so the colors representing each movie would stand out more clearly. I also tried adding character icons for each franchise but found that using text was cleaner and less overwhelming.
-The x-axis was also an issue. In the original, it was centered at 500%, which was confusing and made it look like it was negative at first. So I reset it to zero, making it feel more straightforward.
+
 <br/>
-As I redesigned, I thought about who would be using this data. Film production companies, distribution agencies, and marketing teams would all want clear benchmarks for decision-making for further production development and business strategies. So, I focused on making metrics like budget recovery and audience scores more prominent. I noticed that the original chart lacked dollar signs or “M” for million, so I added them in the tooltips to make the numbers clearer by adjusting number properties adding ‘$’ in prefix and ‘M’ in suffix.
 <br/>
-From the feedback, I knew the colors needed to match each franchise better—like red for Spider-Man or blue for Captain America. I also matched the colors of the text labels to the chart markers for readability. The original design was interactive, requiring the viewer to click through sections, which I found too cumbersome. I kept in mind that the primary audience likely knows the Marvel franchises already, so I focused on making it more intuitive without needing to click around.
+As I worked through the visualization, I made several adjustments to improve how the story was presented. Initially, I liked the original black background and clean typography—it fit the film industry theme nicely. However, to make the data stand out more, I switched to a white background. This allowed the colors representing each movie to pop more clearly. I also considered adding character icons for each franchise, but it felt cluttered, so I decided text labels were a cleaner and less overwhelming option.
+
+<br/>
+One of the first technical issues I addressed was the x-axis. In the original, it was centered at 500%, which was confusing because it made the values appear negative at first glance. I adjusted it to start at 0%, making it much more straightforward. While redesigning, I also thought about the primary audience—film production companies, distribution agencies, and marketing teams. These groups would likely need clear benchmarks to guide production decisions and marketing strategies. With this in mind, I emphasized key metrics like budget recovery and audience scores. 
+
+<br/>
+Another issue I noticed was the lack of clarity in number formatting. For example, the original visualization didn’t use dollar signs or “M” for millions, which could cause confusion. I fixed this by adjusting the number properties, adding a ‘$’ prefix and an ‘M’ suffix in the tooltips. This simple change made the monetary values instantly more understandable.
+
+<br/>
+I got feedback from two students, who were in their 20s and 30s. From feedback, it became clear that the colors needed improvement. Matching franchise colors—like red for Spider-Man or blue for Captain America—would help viewers immediately recognize categories. I also aligned text colors with chart markers to improve readability. The original design required viewers to click through sections interactively, but I found this tedious and unnecessary. Since the target audience likely already knows the Marvel franchises, I focused on making the charts more intuitive and navigable without requiring clicks.
+
+<br/>
+The visualization, while comprehensive, presented too much information at once. This made it overwhelming, especially for audiences seeking quick insights. Additionally, I got another feedback about presenting both audience scores and recovery percentages in a single chart was confusing. Therefore, I split these into two separate charts to make the data clearer. I also tried a dual-axis approach to compare metrics but found it too complex, so I ultimately created two distinct sheets for better clarity.
+
+<br/>
+I experimented with Sankey diagrams to show relationships like budget allocations, box office revenue, and category flow. These diagrams helped reveal patterns in the data, but I received feedback about inconsistent colors. Unfortunately, however, I couldn’t fully adjust the colors due to limitations in the extension version in Tableau. 
 <br/>
 
+I also considered a mixed layout with line graphs for budget trends over time and bar charts for gross profit distribution (domestic vs. international). However, feedback suggested that gross profit distribution wasn’t particularly meaningful because the domestic and international differences were minimal. Instead, I focused on the percentage of budget recovered per film by year. Also, I decided to compare the budget recovered and budgets in order to show the relationship between them. I will explain more below.
+To compare budgets and budget recovery, I used a line chart, employing red for the average percentage of budget recovered and blue (with a dotted line) for the average budget. This visual approach helped highlight the trend that higher budgets often correlate with greater success. By averaging values over the years, I aimed to show a clear relationship between investment size and box office performance.
+<br/>
+Lastly, I decided to omit critics' scores. Production companies and marketing teams are likely more focused on audience preferences and box office outcomes than critics’ opinions. Since critics need detailed reasoning specific to artists and audiences rather than business people, I felt removing this measure would keep the focus on what matters most to decision-makers for production companies. 
 
 

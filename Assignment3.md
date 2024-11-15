@@ -3,12 +3,12 @@
 ![Original data visualization](Marvel.png)
 
 # Redesigned 
-[source:] the-numbers.com, rottentomatoes.com
+**source:** [the-numbers.com](the-numbers.com), [rottentomatoes.com](rottentomatoes.com)
 
 As a filmmaker, the title "Which is the Best Performing Marvel Movie?" captured my attention. I chose this visualization because it provided comprehensive data on various performance metrics. However, the sheer amount of detail could be streamlined, especially for viewers who want a quick comparison of films based on box office performance, it is hard to incorporate all value. Additionally, I wanted to see if there was a pattern between budget size and the percentage of budget recovered, which the original visualization hinted at but could present more clearly. Also, placing the x-axis in the middle at a 500% value (rather than starting from 0%) was confusing, as it initially looked like a negative value, so I wanted to improve it for a clearer look.
 
 
-Here are my four redesigned visualizations. The writing is below visualizations.
+**Here are my four redesigned visualizations. The writing is below visualizations.**
 
 <div class='tableauPlaceholder' id='viz1731638408166' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;Marvelmovies1113_Assignment3&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Marvelmovies1113_Assignment3&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;Marvelmovies1113_Assignment3&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>               
 <script type='text/javascript'>                   

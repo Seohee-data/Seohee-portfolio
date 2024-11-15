@@ -19,10 +19,11 @@ Here are my redesigned 4 different visualizations.
 
 As I went through the visualization, I started making a few adjustments to improve the storytelling. First, I liked the original black background and the clean typography; it fits well with the film industry theme. But to make the data pop, I decided to switch to a white background so the colors representing each movie would stand out more clearly. I also tried adding character icons for each franchise but found that using text was cleaner and less overwhelming.
 The x-axis was also an issue. In the original, it was centered at 500%, which was confusing and made it look like it was negative at first. So I reset it to zero, making it feel more straightforward.
-
+<br/>
 As I redesigned, I thought about who would be using this data. Film production companies, distribution agencies, and marketing teams would all want clear benchmarks for decision-making for further production development and business strategies. So, I focused on making metrics like budget recovery and audience scores more prominent. I noticed that the original chart lacked dollar signs or “M” for million, so I added them in the tooltips to make the numbers clearer by adjusting number properties adding ‘$’ in prefix and ‘M’ in suffix.
-
+<br/>
 From the feedback, I knew the colors needed to match each franchise better—like red for Spider-Man or blue for Captain America. I also matched the colors of the text labels to the chart markers for readability. The original design was interactive, requiring the viewer to click through sections, which I found too cumbersome. I kept in mind that the primary audience likely knows the Marvel franchises already, so I focused on making it more intuitive without needing to click around.
+<br/>
 
 
 

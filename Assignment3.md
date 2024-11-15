@@ -22,7 +22,7 @@ _**source:** [the-numbers.com](the-numbers.com), [rottentomatoes.com](rottentoma
 
 <br/>
 <br/>
-As I worked through the visualization, I made several adjustments to improve how the story was presented. Initially, I liked the original black background and clean typography—it fit the film industry theme nicely. However, to make the data stand out more, I switched to a white background. This allowed the colors representing each movie to pop more clearly. I also considered adding character icons for each franchise, but it felt cluttered, so I decided text labels were a cleaner and less overwhelming option.
+As I worked through the visualization, I reviewed it to improve how the story was presented using the profile form. Initially, I liked the original black background and clean typography—it fit the film industry theme nicely. However, to make the data stand out more, I switched to a white background. This allowed the colors representing each movie to pop more clearly. I also considered adding character icons for each franchise, but it felt cluttered, so I decided text labels were a cleaner and less overwhelming option.
 
 <br/>
 One of the first technical issues I addressed was the x-axis. In the original, it was centered at 500%, which was confusing because it made the values appear negative at first glance. I adjusted it to start at 0%, making it much more straightforward. While redesigning, I also thought about the primary audience—film production companies, distribution agencies, and marketing teams. These groups would likely need clear benchmarks to guide production decisions and marketing strategies. With this in mind, I emphasized key metrics like budget recovery and audience scores. 

@@ -1,5 +1,5 @@
-# Original data visualization title: Which is The Best Performing Marvel Movie?
-# Link: https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/
+# Original data visualization link
+[Which is The Best Performing Marvel Movie?](https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/)
 
 
 

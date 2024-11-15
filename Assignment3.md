@@ -1,5 +1,4 @@
-# Original data visualization
-[Which is The Best Performing Marvel Movie?](https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/)
+# Original data visualization [Which is The Best Performing Marvel Movie?](https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/)
 
 
 As a filmmaker, the title "Which is the Best Performing Marvel Movie?" captured my attention. I chose this visualization because it provided comprehensive data on various performance metrics. However, the sheer amount of detail could be streamlined, especially for viewers who want a quick comparison of films based on box office performance, it is hard to incorporate all value. Additionally, I wanted to see if there was a pattern between budget size and the percentage of budget recovered, which the original visualization hinted at but could present more clearly. Also, placing the x-axis in the middle at a 500% value (rather than starting from 0%) was confusing, as it initially looked like a negative value, so I wanted to improve it for a clearer look.

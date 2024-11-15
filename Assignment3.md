@@ -1,6 +1,6 @@
 # Original data visualization
 [Which is The Best Performing Marvel Movie?](https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/)
-!(Marvel.png)
+![Original data visualization](Marvel.png)
 
 # Redesigned 
 [source:] the-numbers.com, rottentomatoes.com

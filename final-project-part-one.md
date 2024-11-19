@@ -3,11 +3,18 @@
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
-Text here...
+<Outline>
+
+Title: Invisible Neighbors from North Korea
+
+This project explores the journey of North Korean defectors, focusing on their reasons for escaping, their routes, and their integration into South Korea. Using government data, personal stories, and visualizations, the project seeks to provide a comprehensive understanding of the defection process. The narrative begins with an overview of life in North Korea, characterized by economic instability and political oppression, followed by trends in defection over the years. A map of escape routes will illustrate the paths defectors take, highlighting the time involved in reaching freedom. 
+
+The project also examines the dangers defectors face on the way. Then, I will present data on settlement status, professional and academic backgrounds, and economic activities to highlight the disparities between defectors' previous lives and their new realities. Ultimately, I aim to urge greater support for defectors and raise awareness about their invisible presence in society.
+
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-Text here...
+This project examines North Korean defectors’ escape routes, reasons for leaving, and challenges integrating into South Korea
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
@@ -23,7 +30,7 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
+|Policy on North Korean Defectors  | https://www.unikorea.go.kr/eng_unikorea/relations/statistics/defectors/|Number of North Korean Defectors Entering South Korea|
 |      |     |             |
 |      |     |             |
 

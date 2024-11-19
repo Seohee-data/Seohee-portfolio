@@ -2,7 +2,7 @@
 
 # Outline
 
-##Title: Invisible Neighbors from North Korea
+### Title: Invisible Neighbors from North Korea
 
 This project explores the journey of North Korean defectors, focusing on their reasons for escaping, their routes, and their integration into South Korea. Using government data, personal stories, and visualizations, the project seeks to provide a comprehensive understanding of the defection process. The narrative begins with an overview of life in North Korea, characterized by economic instability and political oppression, followed by trends in defection over the years. A map of escape routes will illustrate the paths defectors take, highlighting the time involved in reaching freedom. 
 

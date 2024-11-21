@@ -17,7 +17,7 @@
 
 
 # The data
-> My main data source is the Ministry of Unification, a South Korean government department, provides reliable information on North Korean defectors entering South Korea. I’ll also use case studies from articles, U.S. government reports, and UN documents on North Korean defectors.
+> Main data source is the Ministry of Unification, a South Korean government department, provides reliable information on North Korean defectors entering South Korea. I’ll also use case studies from articles, U.S. government reports, and UN documents on North Korean defectors.
 
 
 

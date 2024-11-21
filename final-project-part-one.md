@@ -38,7 +38,7 @@
 
 > ### Data Description
 
-This project includes data related to Inter-Korean traffic and policies on North Korean defectors; 
+** *This project includes data related to Inter-Korean traffic and policies on North Korean defectors;* **
 
 #### Inter-Korean Traffic
 >

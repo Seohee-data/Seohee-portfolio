@@ -12,10 +12,7 @@ The project also examines the dangers defectors face on the way. Then, I will pr
 > This project examines North Korean defectors’ escape routes, reasons for leaving, and challenges integrating into South Korea
 
 ## Initial sketches
-> 
-
-![Sketche](Note-19.jpg)
-Text here...
+> ![Sketche](Note-19.jpg)
 
 # The data
 > My main data source is the Ministry of Unification, a South Korean government department, provides reliable information on North Korean defectors entering South Korea. I’ll also use case studies from articles, U.S. government reports, and UN documents on North Korean defectors.
@@ -64,6 +61,5 @@ Text here...
 
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+> I’m using Tableau to create interactive visualizations that make the data clear and easy to explore. With Tableau, I can map out escape routes, show demographic trends, and highlight support systems in South Korea. The goal is to present the data in a way that helps people see the bigger picture without feeling overwhelmed. I will build a story in Shorthand, a multimedia storytelling platform, aiming for seamless data storytelling. 
 
-Text here...

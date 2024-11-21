@@ -61,5 +61,5 @@
 
 
 # Method and medium
-> I’m using Tableau to create interactive visualizations that make the data clear and easy to explore. With Tableau, I can map out escape routes, show demographic trends, and highlight support systems in South Korea. The goal is to present the data in a way that helps people see the bigger picture without feeling overwhelmed. I will build a story in Shorthand, a multimedia storytelling platform, aiming for seamless data storytelling. 
+> I will use Tableau to create interactive visualizations that make the data clear and easy to explore. With Tableau, I can map out escape routes, show demographic trends, and highlight support systems in South Korea. I will build a story in Shorthand, a multimedia storytelling platform, aiming for seamless data storytelling. 
 

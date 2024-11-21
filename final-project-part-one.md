@@ -10,9 +10,8 @@
 
 ## Initial sketches
 
- ![Sketche](Note-23.jpg?h=750&w=1260) | ![Sketche](Note-24.jpg?h=750&w=1260) 
-
- 
+ ![Sketche](Note-23.jpg?h=750&w=1260) 
+ ![Sketche](Note-24.jpg?h=750&w=1260) 
  ![Sketche](IMG_0165.jpg?h=750&w=1260)
 
 

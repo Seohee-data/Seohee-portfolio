@@ -38,17 +38,17 @@ The project also examines the dangers defectors face on the way. Then, I will pr
 
 
 
-This project includes data related to Inter-Korean traffic and policies on North Korean defectors.
+>This project includes data related to Inter-Korean traffic and policies on North Korean defectors.
 
 #### Inter-Korean Traffic
-
+>
 - **Number of Cross-Border Travelers**: Data on the number of individuals traveling between North and South Korea.
 - **Number of Vehicles Crossing the Inter-Korean Border**: Includes all vehicle crossings between North and South Korea.
 - **Number of Vessels Crossing the Inter-Korean Border (one way)**: Data on maritime traffic crossing the inter-Korean border.
 - **Number of Aircraft Crossing the Inter-Korean Border (one way)**: Information on the number of flights between North and South Korea.
 
 #### Policy on North Korean Defectors
-
+>
 - **Number of North Korean Defectors Entering South Korea**: Statistics on defectors arriving in South Korea over time.
 - **Number of North Korean Defectors by Age Group**: Breakdown of defectors by age demographics.
 - **Number of North Korean Defectors by Professional Background in the North**: Categorizes defectors based on their professions in North Korea.

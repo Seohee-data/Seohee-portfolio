@@ -9,8 +9,7 @@
  **This project examines North Korean defectors’ escape routes, reasons for leaving, and challenges integrating into South Korea**
 
 ## Initial sketches
-Sketch |Sketch
-:-------------------------:|:-------------------------:
+
  ![Sketche](Note-23.jpg?h=750&w=1260) | ![Sketche](Note-24.jpg?h=750&w=1260) 
 
  

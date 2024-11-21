@@ -16,6 +16,7 @@ This project examines North Korean defectors’ escape routes, reasons for leavi
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
+!(Note-19.jpg)
 Text here...
 
 # The data

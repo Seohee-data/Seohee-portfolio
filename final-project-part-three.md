@@ -3,6 +3,31 @@
 
 Text here!
 
+
+
+# Data Description
+
+This project includes data related to Inter-Korean traffic and policies on North Korean defectors. Below is a detailed breakdown of the data:
+
+## Inter-Korean Traffic
+
+- <small>Number of Cross-Border Travelers:</small> *Data on the number of individuals traveling between North and South Korea.*
+- <small>Number of Vehicles Crossing the Inter-Korean Border:</small> *Includes all vehicle crossings between North and South Korea.*
+- <small>Number of Vessels Crossing the Inter-Korean Border (one way):</small> *Data on maritime traffic crossing the inter-Korean border.*
+- <small>Number of Aircraft Crossing the Inter-Korean Border (one way):</small> *Information on the number of flights between North and South Korea.*
+
+## Policy on North Korean Defectors
+
+- <small>Number of North Korean Defectors Entering South Korea:</small> *Statistics on defectors arriving in South Korea over time.*
+- <small>Number of North Korean Defectors by Age Group:</small> *Breakdown of defectors by age demographics.*
+- <small>Number of North Korean Defectors by Professional Background in the North:</small> *Categorizes defectors based on their professions in North Korea.*
+- <small>Number of North Korean Defectors by Academic Background in the North:</small> *Education levels of defectors before entering South Korea.*
+- <small>Number of North Korean Defectors by Region of Birth in the North:</small> *Regional origins of defectors within North Korea.*
+- <small>Settlement Status of North Korean Defectors:</small> *Data on where and how defectors have settled in South Korea.*
+- <small>Economic Activities of North Korean Defectors:</small> *Insights into the employment and economic contributions of defectors in South Korea.*
+
+
+
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
 

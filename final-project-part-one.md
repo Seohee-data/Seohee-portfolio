@@ -4,8 +4,7 @@
 ### Title: Invisible Neighbors from North Korea
 
 >This project explores the journey of North Korean defectors, focusing on their reasons for escaping, their routes, and their integration into South Korea. Using government data, personal stories, and visualizations, the project seeks to provide a comprehensive understanding of the defection process. The narrative begins with an overview of life in North Korea, characterized by economic instability and political oppression, followed by trends in defection over the years. A map of escape routes will illustrate the paths defectors take, highlighting the time involved in reaching freedom. 
-
-The project also examines the dangers defectors face on the way. Then, I will present data on settlement status, professional and academic backgrounds, and economic activities to highlight the disparities between defectors' previous lives and their new realities. Ultimately, I aim to urge greater support for defectors and raise awareness about their invisible presence in society.
+>The project also examines the dangers defectors face on the way. Then, I will present data on settlement status, professional and academic backgrounds, and economic activities to highlight the disparities between defectors' previous lives and their new realities. Ultimately, I aim to urge greater support for defectors and raise awareness about their invisible presence in society.
 
  **This project examines North Korean defectors’ escape routes, reasons for leaving, and challenges integrating into South Korea**
 
@@ -18,7 +17,6 @@ The project also examines the dangers defectors face on the way. Then, I will pr
 # The data
 > My main data source is the Ministry of Unification, a South Korean government department, provides reliable information on North Korean defectors entering South Korea. I’ll also use case studies from articles, U.S. government reports, and UN documents on North Korean defectors.
 
->
 
 
 | Name | URL |

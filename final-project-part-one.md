@@ -9,10 +9,12 @@
  **This project examines North Korean defectors’ escape routes, reasons for leaving, and challenges integrating into South Korea**
 
 ## Initial sketches
-|Sketches|  |
+Sketch |Sketche|
+|:-:|:-:|
 |-------------------------|-------------------------|
-| ![Sketche](Note-23.jpg) | ![Sketche](Note-24.jpg) |
-| ![Sketche](IMG_0165.jpg)|
+| ![Sketche](Note-23.jpg?h=750&w=1260) | ![Sketche](Note-24.jpg?h=750&w=1260) |
+| ![Sketche](IMG_0165.jpg?h=750&w=1260)|
+
 
 # The data
 > My main data source is the Ministry of Unification, a South Korean government department, provides reliable information on North Korean defectors entering South Korea. I’ll also use case studies from articles, U.S. government reports, and UN documents on North Korean defectors.

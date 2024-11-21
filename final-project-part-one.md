@@ -1,4 +1,3 @@
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
 
@@ -9,7 +8,7 @@ This project explores the journey of North Korean defectors, focusing on their r
 The project also examines the dangers defectors face on the way. Then, I will present data on settlement status, professional and academic backgrounds, and economic activities to highlight the disparities between defectors' previous lives and their new realities. Ultimately, I aim to urge greater support for defectors and raise awareness about their invisible presence in society.
 
 
-> This project examines North Korean defectors’ escape routes, reasons for leaving, and challenges integrating into South Korea
+> **This project examines North Korean defectors’ escape routes, reasons for leaving, and challenges integrating into South Korea**
 
 ## Initial sketches
 > ![Sketche](Note-23.jpg)

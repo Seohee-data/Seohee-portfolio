@@ -44,7 +44,6 @@ This project includes data related to Inter-Korean traffic and policies on North
 
 #### Inter-Korean Traffic
 >
-<small>
 - Number of Cross-Border Travelers: *Data on the number of individuals traveling between North and South Korea.*
 - Number of Vehicles Crossing the Inter-Korean Border: *Includes all vehicle crossings between North and South Korea.*
 - Number of Vessels Crossing the Inter-Korean Border (one way): *Data on maritime traffic crossing the inter-Korean border.*
@@ -60,7 +59,7 @@ This project includes data related to Inter-Korean traffic and policies on North
 - Number of North Korean Defectors by Region of Birth in the North: *Regional origins of defectors within North Korea.*
 - Settlement Status of North Korean Defectors: *Data on where and how defectors have settled in South Korea.*
 - Economic Activities of North Korean Defectors: *Insights into the employment and economic contributions of defectors in South Korea.*
-<small>
+
 
 # Method and medium
 > I’m using Tableau to create interactive visualizations that make the data clear and easy to explore. With Tableau, I can map out escape routes, show demographic trends, and highlight support systems in South Korea. The goal is to present the data in a way that helps people see the bigger picture without feeling overwhelmed. I will build a story in Shorthand, a multimedia storytelling platform, aiming for seamless data storytelling. 

@@ -36,9 +36,10 @@
 | "North Korea - United States Department of State 2023" | [https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/north-korea/](https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/north-korea/) |
 
 
-> ### Data Description
+### Data Description
 
-** *This project includes data related to Inter-Korean traffic and policies on North Korean defectors;* **
+
+> *This project includes data related to Inter-Korean traffic and policies on North Korean defectors;*
 
 #### Inter-Korean Traffic
 >
@@ -49,7 +50,6 @@
 
 #### Policy on North Korean Defectors
 >
-
 - Number of North Korean Defectors Entering South Korea: *Statistics on defectors arriving in South Korea over time.*
 - Number of North Korean Defectors by Age Group: *Breakdown of defectors by age demographics.*
 - Number of North Korean Defectors by Professional Background in the North: *Categorizes defectors based on their professions in North Korea.*

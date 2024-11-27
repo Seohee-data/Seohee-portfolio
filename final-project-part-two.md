@@ -43,7 +43,7 @@ Text here!
 | Do the statistics and data visualization help you to understand exploring the topic? | Yes.                            | Yes, but gender isn’t needed; mix it into the total. | Yes, but the color scheme and background need changes. |
 | How do you think this type of story could inform or inspire action? | Definitely!                     | Yes, I would click the support button.               | It is informative.                                   |
 | What do you think needs to be added to this topic?    | Some quotes will be helpful.    | I’d like to see the path and distances on the map.   | Add data about mental care for defectors’ communities. |
-| Which part do you think needs to be improved (barriers)? | Some quotes will be helpful to engage more.    | Add path details and distances using a map. add more photos. add more context                      | More data on mental care for defectors.              |
+| Which part do you think needs to be improved (barriers)? | Some quotes will be helpful to engage more.    | Add path details and distances using a map. Add more photos. Add more context.                      | More data on mental care for defectors.              |
 
 
 # Identified changes for Part III

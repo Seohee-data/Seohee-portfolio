@@ -17,50 +17,32 @@ I hope to inform individuals who influence or support policies for defectors and
 
 Questions
 
-1. Do you think the title is appropriate and attractive?
-Goal: Identify the proper title
-
-2. Are you interested in or familiar with this topic? 
-Goal: Identify general background information
-
-3. Do the statistics and data visualization help you to understand exploring the topic? 
-Goal: Identify understanding of the topic
-
-4. How do you think this type of story could inform or inspire action?
-Goal: Identify emotional response
-
-5. What do you think needs to be added to this topic?
-Goal: Identify engagement and preferences
-
-6. Is there any specific aspect of a story about defectors that might change your perception or deepen your understanding?
-Goal: Identify engagement for further perception
-
-7. What kind of information would you find most useful or compelling when learning about North Korean defectors?
-Goal: Identify engagement and preferences
-
-8. Which part do you think needs to be improved(barriers)?
-Goal: improvement
 
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Goal                                | Questions to Ask                                                                               |
+|-------------------------------------|-----------------------------------------------------------------------------------------------|
+| Identify the proper title           | Do you think the title is appropriate and attractive?                                         |
+| Identify general background         | Are you interested in or familiar with this topic?                                            |
+| Identify understanding of the topic | Do the statistics and data visualization help you to understand exploring the topic?          |
+| Identify emotional response         | How do you think this type of story could inform or inspire action?                          |
+| Identify engagement and preferences | What do you think needs to be added to this topic?                                            |
+| Identify improvement | Which part do you think needs to be improved (barriers)?                                   |
+
 
 
 Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+> 
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Questions               | Interview 1                     | Interview 2                                      | Interview 3                                       |
+|-------------------------|----------------------------------|-------------------------------------------------|-------------------------------------------------|
+| Do you think the title is appropriate and attractive? | Yes, it’s attractive.          | Yes, I want to read, but you may need a subtitle.    | Yes. I like it.                                                 |
+| Are you interested in or familiar with this topic?    | Not really.                     | I’ve heard of this, but I don’t know the context.    | I’m not familiar with this topic.                    |
+| Do the statistics and data visualization help you to understand exploring the topic? | Yes.                            | Yes, but gender isn’t needed; mix it into the total. | Yes, but the color scheme and background need changes. |
+| How do you think this type of story could inform or inspire action? | Definitely!                     | Yes, I would click the support button.               | It is informative.                                   |
+| What do you think needs to be added to this topic?    | Some quotes will be helpful.    | I’d like to see the path and distances on the map.   | Add data about mental care for defectors’ communities. |
+| Which part do you think needs to be improved (barriers)? | Some quotes will be helpful.    | Add path details and distances.                     | More data on mental care for defectors.              |
 
 
 # Identified changes for Part III
@@ -68,13 +50,14 @@ Text here!
 
 Text here!
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Research Synthesis                   | Anticipated Changes for Part III      |
+|--------------------------------------|---------------------------------------|
+| Insights from interviews indicate the title is clear but could be enhanced with a subtitle for better engagement. | Add a subtitle to make the title more engaging and descriptive. |
+| Visualizations are helpful but require better color schemes and simpler categorization (e.g., avoid excessive segmentation like gender). | Update visualizations with improved color schemes and merge unnecessary categories to focus on totals. |
+| Personal stories and additional quotes could enhance relatability and deepen audience engagement. | Include more quotes or stories from defectors to humanize the data. |
+| A map with paths and distances of defectors' journeys could provide a clearer understanding of their routes. | Add a map showing escape routes, distances, and key locations. |
+| Data on mental health and community support is missing but essential for providing a holistic view of the challenges defectors face. | Integrate mental health and community care data to emphasize the importance of these aspects. |
+
 
 > ...include any final thoughts you have here. 
 

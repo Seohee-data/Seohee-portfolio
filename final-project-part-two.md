@@ -1,19 +1,45 @@
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+> ![Storyboard](Storyboard_final project.jpg)
+> [Shorthand](https://preview.shorthand.com/jGleKvtHHNr3g0tD)
 
-Text here!
+
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+> The target audience for this project includes human rights organizations, and the general public interested in humanitarian issues and North Korean defectors. 
+I hope to inform individuals who influence or support policies for defectors and to raise awareness among those unfamiliar with their struggles. Therefore, the project focuses on North Korean defectors with their backgrounds, including varying age groups, escape routes, and traumatic experiences. Additionally, the story aims to resonate with advocates for refugee rights and those invested in fostering global empathy and action to support them.
 
-Text here!
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+Questions
+
+1. Do you think the title is appropriate and attractive?
+Goal: Identify the proper title
+
+2. Are you interested in or familiar with this topic? 
+Goal: Identify general background information
+
+3. Do the statistics and data visualization help you to understand exploring the topic? 
+Goal: Identify understanding of the topic
+
+4. How do you think this type of story could inform or inspire action?
+Goal: Identify emotional response
+
+5. What do you think needs to be added to this topic?
+Goal: Identify engagement and preferences
+
+6. Is there any specific aspect of a story about defectors that might change your perception or deepen your understanding?
+Goal: Identify engagement for further perception
+
+7. What kind of information would you find most useful or compelling when learning about North Korean defectors?
+Goal: Identify engagement and preferences
+
+8. Which part do you think needs to be improved(barriers)?
+Goal: improvement
+
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -53,7 +79,3 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!

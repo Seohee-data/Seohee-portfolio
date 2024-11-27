@@ -8,8 +8,8 @@
 # User research 
 
 ## Target audience
-> The target audience for this project includes human rights organizations, and the general public interested in humanitarian issues and North Korean defectors. 
-I hope to inform individuals who influence or support policies for defectors and to raise awareness among those unfamiliar with their struggles. Therefore, the project focuses on North Korean defectors with their backgrounds, including varying age groups, escape routes, and traumatic experiences. Additionally, the story aims to resonate with advocates for refugee rights and those invested in fostering global empathy and action to support them.
+> The **target audience** for this project includes **human rights organizations**, and **the general public** interested in humanitarian issues and North Korean defectors.
+> *I hope to inform individuals who influence or support policies for defectors and to raise awareness among those unfamiliar with their struggles. Therefore, the project focuses on North Korean defectors with their backgrounds, including varying age groups, escape routes, and traumatic experiences. Additionally, the story aims to resonate with advocates for refugee rights and those invested in fostering global empathy and action to support them.*
 
 
 ## Interview script

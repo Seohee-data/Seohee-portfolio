@@ -19,6 +19,7 @@ Here's where all my cool work will go.
 # Assignment3: [visualization](Assignment3.md)
 
 # Final Project: [Part 1](final-project-part-one.md)
+# Final Project: [Part 2](final-project-part-two.md)
 
 
 

@@ -27,8 +27,6 @@
 
 
 
-Text here!
-
 ## Interview findings
 > 
 

@@ -1,7 +1,7 @@
 # Wireframes / storyboards
 > ![Storyboard](Storyboard_final project.jpg)
 
- # [Shorthand](https://preview.shorthand.com/jGleKvtHHNr3g0tD)
+ # > [Shorthand](https://preview.shorthand.com/jGleKvtHHNr3g0tD) 
 
 
 
@@ -14,11 +14,7 @@
 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Questions
-
-
+> 
 
 | Goal                                | Questions to Ask                                                                               |
 |-------------------------------------|-----------------------------------------------------------------------------------------------|
@@ -47,20 +43,12 @@ Text here!
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
-
-| Research Synthesis                   | Anticipated Changes for Part III      |
-|--------------------------------------|---------------------------------------|
-| Insights from interviews indicate the title is clear but could be enhanced with a subtitle for better engagement. | Add a subtitle to make the title more engaging and descriptive. |
-| Visualizations are helpful but require better color schemes and simpler categorization (e.g., avoid excessive segmentation like gender). | Update visualizations with improved color schemes and merge unnecessary categories to focus on totals. |
-| Personal stories and additional quotes could enhance relatability and deepen audience engagement. | Include more quotes or stories from defectors to humanize the data. |
-| A map with paths and distances of defectors' journeys could provide a clearer understanding of their routes. | Add a map showing escape routes, distances, and key locations. |
-| Data on mental health and community support is missing but essential for providing a holistic view of the challenges defectors face. | Integrate mental health and community care data to emphasize the importance of these aspects. |
+> ### Research Synthesis & Plan
+>From the interviews, I realized the title is clearer than I initially thought, even though I was concerned it might not fully align with the conclusion of the story. Adding a subtitle was suggested as a simple solution to address this concern. I also learned that my data visualizations need adjustments, such as changing the color scheme and removing graphs that don’t directly align with the topic. Personal stories, like quotes, were highlighted as a way to enhance emotional engagement, which I hadn’t focused on enough.
+While I had planned to include a map showing paths and distances, I’m struggling with the technical skills to create it, and I’m unsure how to address this feedback effectively. Another key takeaway was the importance of including data on mental health and how it impacts communities. Emphasizing the need for more healthcare centers could serve as a strong call to action and make the story more impactful. I plan to implement all those feedback. 
 
 
-> ...include any final thoughts you have here. 
+### Final thoughts
+> 
 
-Text here!
 

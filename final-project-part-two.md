@@ -1,7 +1,7 @@
 # Wireframes / storyboards
 > ![Storyboard](Storyboard_final project.jpg)
 
- # > [Shorthand](https://preview.shorthand.com/jGleKvtHHNr3g0tD) 
+# [Shorthand](https://preview.shorthand.com/jGleKvtHHNr3g0tD) 
 
 
 

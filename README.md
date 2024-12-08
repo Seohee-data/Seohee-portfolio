@@ -6,21 +6,16 @@ Hello! My name is Seohee Lee, and I am a second year masters of arts management 
 My enthusiasm for data analytics and visualization has found a perfect outlet in arts management, where I use these tools to uncover meaningful patterns and communicate complex insights about audience engagement and artistic impact. Currently, I'm leveraging these skills as the data manager for my capstone project, a semester-long group project with our client, the Carnegie Mellon University School of Drama for the planning of a Center for New Works Development.  
 [More information](http://www.koreanfilm.or.kr/eng/films/index/peopleView.jsp?peopleCd=20276889)
 
-# What I hope to learn
-
-1. Audience engagement strategies based on data
 
 # Portfolio
 
-Here's where all my cool work will go.
+## Assignment2: [Visualization](dataviz2)
 
-# Assignment2: [Visualization](dataviz2)
+## Assignment3: [visualization](Assignment3.md)
 
-# Assignment3: [visualization](Assignment3.md)
-
-# Final Project: [Part 1](final-project-part-one.md)
-# Final Project: [Part 2](final-project-part-two.md)
-# Final Project: [part 3](final-project-part-three.md)
+## Final Project: [Part 1](final-project-part-one.md)
+## Final Project: [Part 2](final-project-part-two.md)
+## Final Project: [part 3](final-project-part-three.md)
 
 
 

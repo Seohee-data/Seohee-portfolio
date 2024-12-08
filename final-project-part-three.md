@@ -2,7 +2,7 @@
 > ![Storyboard](Storyboard_final project.jpg)
 >
 > 
->## [Shorthand](https://preview.shorthand.com/jGleKvtHHNr3g0tD) 
+>## [Shorthand](https://carnegiemellon.shorthandstories.com/invisible-neighbors-from-north-korea/index.html) 
 
 # Changes made since Part II
 

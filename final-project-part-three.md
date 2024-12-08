@@ -14,7 +14,7 @@ In addition, I combined the bar graph and line graph into one graph with multipl
 
 To improve the flow of the story, I decided to remove the age data but combined the gender breakdown with the yearly number of North Korean defectors for a more streamlined
 
-Lastly, I debated whether to add one or two additional sentences for context, but since the story is already long with significant scrolling, I decided to add annotations instead. I felt these annotations were sufficient to provide the necessary context without overloading the audience.
+Lastly, I debated whether to add one or two additional sentences for context, but since the story is already long with significant scrolling, I decided to add sentences for a few that need more context and annotations for a few others. I felt these were sufficient to provide the necessary context without overloading the audience.
 
 
 

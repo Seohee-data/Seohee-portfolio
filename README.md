@@ -20,7 +20,7 @@ Here's where all my cool work will go.
 
 # Final Project: [Part 1](final-project-part-one.md)
 # Final Project: [Part 2](final-project-part-two.md)
-
+# Final Project: [part 3](final-project-part-three.md)
 
 
 

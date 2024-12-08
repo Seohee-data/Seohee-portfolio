@@ -1,5 +1,8 @@
 # The final data story
-> https://preview.shorthand.com/jGleKvtHHNr3g0tD
+> ![Storyboard](Storyboard_final project.jpg)
+>
+> 
+>## [Shorthand](https://preview.shorthand.com/jGleKvtHHNr3g0tD) 
 
 # Changes made since Part II
 

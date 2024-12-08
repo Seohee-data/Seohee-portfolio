@@ -1,8 +1,6 @@
-# The final data story
+# The final data story [Shorthand](https://carnegiemellon.shorthandstories.com/invisible-neighbors-from-north-korea/index.html) 
 > ![Storyboard](Storyboard_final project.jpg)
 >
-> 
->## [Shorthand](https://carnegiemellon.shorthandstories.com/invisible-neighbors-from-north-korea/index.html) 
 
 # Changes made since Part II
 
